@@ -2,12 +2,12 @@
 
 ```markdown
 Jeanette Mui
-_jeanettemui101@gmail.com_
+*jeanettemui101@gmail.com*
 ```
 
-             | 
+First Header | Second Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+[Video 1](https://www.youtube.com/watch?v=utauiyaJT7Q) | https://www.youtube.com/watch?v=utauiyaJT7Q
 Content in the first column | Content in the second column
 
 You can use the [editor on GitHub](https://github.com/jemui/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
