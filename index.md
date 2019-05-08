@@ -5,9 +5,7 @@ Jeanette Mui
 *jeanettemui101@gmail.com*
 ```
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
-[![Everything Is AWESOME](https://i9.ytimg.com/vi/utauiyaJT7Q/mq2.jpg?sqp=CPyRyuYF&rs=AOn4CLAgASDdPs51ycgypZ708m7EUeTMjg)](https://www.youtube.com/watch?v=utauiyaJT7Q-Y "Everything Is AWESOME")
+[![Video 1](https://i.ytimg.com/vi/utauiyaJT7Q/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzTN1IQ-WTkSK5Xc2ZVA5hC0MmJA)](https://www.youtube.com/watch?v=utauiyaJT7Q-Y "Video 1)
 
 First Header | Second Header
 ------------ | -------------
