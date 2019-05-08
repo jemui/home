@@ -7,7 +7,8 @@ Jeanette Mui
 
 First Header | Second Header
 ------------ | -------------
-[Video 1](videos/cps.jpg)(https://www.youtube.com/watch?v=utauiyaJT7Q) | https://www.youtube.com/watch?v=utauiyaJT7Q
+Collaboration Parts
+[![Video 1](https://i9.ytimg.com/vi/utauiyaJT7Q/mq2.jpg?sqp=CPyRyuYF&rs=AOn4CLAgASDdPs51ycgypZ708m7EUeTMjg)(https://www.youtube.com/watch?v=utauiyaJT7Q) | https://www.youtube.com/watch?v=utauiyaJT7Q
 Content in the first column | Content in the second column
 
 You can use the [editor on GitHub](https://github.com/jemui/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
