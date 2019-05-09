@@ -14,44 +14,8 @@ Here are some links to some of the videos I've made in the past! They are mainly
 | [MMV Collab Part 2 - 0:11](https://www.youtube.com/watch?v=JyS-6ys0bns) | [![Old Collab Parts](https://i.ytimg.com/vi/JyS-6ys0bns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAIEIMld9gtYYIk-7NJO1AAwluzgw)](https://www.youtube.com/watch?v=JyS-6ys0bns-Y "Old Collab Parts") |  
 | [Short MMV - 0:16](https://www.youtube.com/watch?v=wAsDZw2wvDo) | [![Short MMV](https://i.ytimg.com/vi/wAsDZw2wvDo/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDa3FKaAjg4GY7fbEtBdypnziTkRg)](https://www.youtube.com/watch?v=wAsDZw2wvDo-Y "Short MMV") |  
 
-The following video is part of the cinematics that I have been working on for an ongoing speech therapy game called SpokeIt.
+The following video is part of the cinematics that I have been working on for a speech therapy game called [SpokeIt](https://spokeitthegame.com/).
 
 | Videos        |               | 
 | ------------- |:-------------:| 
 | [SpokeIt Video 1 - 0:49](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be) | [![SpokeIt](https://i.ytimg.com/vi/qf6Pb_HOvGA/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcli82RQpz8H8U0G18WZ6ZK1rS7Q)](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be-Y "SpokeIt") |  
-
-
-
-You can use the [editor on GitHub](https://github.com/jemui/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jemui/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
