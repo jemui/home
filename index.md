@@ -1,6 +1,8 @@
 ## Welcome to Jeanette Mui's Page!
 
-Here are some links to some of the videos I've made in the past! They are mainly short music videos using Maplestory sprites made with Sony Vegas Pro 8, Adobe Photoshop, and Paint.net. 
+Hello, welcome to my page! 
+
+I have listed some links to some of the videos I've made in the past! They are mainly short music videos using Maplestory sprites made with Sony Vegas Pro 8, Adobe Photoshop, and Paint.net. 
 
 | Videos        |               | 
 | ------------- |:-------------:| 
@@ -9,7 +11,7 @@ Here are some links to some of the videos I've made in the past! They are mainly
 | [MMV Collab Part 2 - 0:11](https://www.youtube.com/watch?v=JyS-6ys0bns) | [![Old Collab Parts](https://i.ytimg.com/vi/JyS-6ys0bns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAIEIMld9gtYYIk-7NJO1AAwluzgw)](https://www.youtube.com/watch?v=JyS-6ys0bns-Y "Old Collab Parts") |  
 | [Short MMV - 0:16](https://www.youtube.com/watch?v=wAsDZw2wvDo) | [![Short MMV](https://i.ytimg.com/vi/wAsDZw2wvDo/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDa3FKaAjg4GY7fbEtBdypnziTkRg)](https://www.youtube.com/watch?v=wAsDZw2wvDo-Y "Short MMV") |  
 
-The following video is part of the cinematics that I have been working on for a speech therapy game called [SpokeIt](https://spokeitthegame.com/).
+The following video is part of the cinematics that I have been working on for a speech therapy game called [SpokeIt](https://spokeitthegame.com/). These cinematics are made using Sony Vegas Pro 12, Adobe Illustrator, Photoshop, AfterEffects, and Character Animator.
 
 | Videos        |               | 
 | ------------- |:-------------:| 
