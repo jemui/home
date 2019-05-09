@@ -5,11 +5,11 @@ Jeanette Mui
 jeanettemui101@gmail.com
 ```
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| [![Video 1](https://i.ytimg.com/vi/utauiyaJT7Q/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzTN1IQ-WTkSK5Xc2ZVA5hC0MmJA)](https://www.youtube.com/watch?v=utauiyaJT7Q-Y "Video 1") | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables        | Are           | 
+| ------------- |:-------------:| 
+| Collaboration Part | [![Video 1](https://i.ytimg.com/vi/utauiyaJT7Q/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzTN1IQ-WTkSK5Xc2ZVA5hC0MmJA)](https://www.youtube.com/watch?v=utauiyaJT7Q-Y "Video 1") | 
+| col 2 is      | centered      |  
+| zebra stripes | are neat      |  
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
