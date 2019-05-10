@@ -1,5 +1,3 @@
-## Welcome to Jeanette Mui's Page!
-
 Hello, welcome to my page! 
 
 I have listed some links to some of the videos I've made in the past! They are mainly short music videos using Maplestory sprites made with Sony Vegas Pro 8, Adobe Photoshop, Paint.net, and Bannedstory. 
@@ -20,5 +18,6 @@ The following video is part of the cinematics that I have been working on for a 
 | [SpokeIt Video 1 - 0:49](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be) | [![SpokeIt](https://i.ytimg.com/vi/qf6Pb_HOvGA/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcli82RQpz8H8U0G18WZ6ZK1rS7Q)](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be-Y "SpokeIt") |  
 
 ```markdown
+Jeanette Mui
 Email: jeanettemui101@gmail.com
 ```
