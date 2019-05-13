@@ -12,6 +12,8 @@ I have listed some links to some of the videos I've made in the past! They are m
 
 
 The following video is part of the cinematics that I have been working on for a speech therapy game called [SpokeIt](https://spokeitthegame.com/). These cinematics are made using Sony Vegas Pro 12, Adobe Illustrator, Photoshop, After Effects, and Character Animator.
+Nova, the yellow star who can speak, travels with the fuzzy round charaters, migs, that can't speak to discover a story of her own. 
+
 
 |               |               | 
 | ------------- |:-------------:| 
