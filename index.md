@@ -20,7 +20,8 @@ Nova, the yellow star who can speak, travels with the fuzzy round charaters, mig
 | [SpokeIt Video 1 - 0:49](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be) | [![SpokeIt](https://i.ytimg.com/vi/qf6Pb_HOvGA/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcli82RQpz8H8U0G18WZ6ZK1rS7Q)](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be-Y "SpokeIt") |  
 
 Game Projects
-Hotaru no Machi is a short 2D side scrolling game where the player is tasked to collect fireflies and fill them up in street lamps to restore light to a dark town. For every street lamp filled, the player can see more of the town around them. This was created with 
+
+Hotaru no Machi is a short 2D side scrolling game where the player is tasked to collect fireflies and fill them up in street lamps to restore light to a dark town. For every street lamp filled, the player can see more of the town around them. This was created with Erica Nguyen and Karen Lee.
 
 |               |               | 
 | ------------- |:-------------:| 
