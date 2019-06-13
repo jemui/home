@@ -14,10 +14,11 @@ I have listed some links to some of the videos I've made in the past! They are m
 The following video is part of the cinematics that I have been working on for a speech therapy game called [SpokeIt](https://spokeitthegame.com/). These cinematics are made using Sony Vegas Pro 12, Adobe Illustrator, Photoshop, After Effects, and Character Animator.
 Nova, the yellow star who can speak, travels with the fuzzy round charaters, migs, that can't speak to discover a story of her own. 
 
-
 |               |               | 
 | ------------- |:-------------:| 
 | [SpokeIt Video 1 - 0:49](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be) | [![SpokeIt](https://i.ytimg.com/vi/qf6Pb_HOvGA/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcli82RQpz8H8U0G18WZ6ZK1rS7Q)](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be-Y "SpokeIt") |  
+| [SpokeIt Video 2 - 0:49](https://www.youtube.com/watch?v=PRSEne-KjnQ&feature=youtu.be) | [![SpokeIt](https://i.ytimg.com/vi/PRSEne-KjnQ/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD6n41wJBwYEgAW7qrCMJK18iUn-g)](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be-Y "SpokeIt") |  
+| [SpokeIt Video 3 - 0:49](https://www.youtube.com/watch?v=7Rybkf7eSqo&feature=youtu.be) | [![SpokeIt](https://i.ytimg.com/vi/7Rybkf7eSqo/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCF43vLGh14hJ_it95jz88mhO9Tsg)](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be-Y "SpokeIt") |  
 
 Game Projects
 
