@@ -17,8 +17,8 @@ Nova, the yellow star who can speak, travels with the fuzzy round charaters, mig
 |               |               | 
 | ------------- |:-------------:| 
 | [SpokeIt Video 1 - 0:49](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be) | [![SpokeIt](https://i.ytimg.com/vi/qf6Pb_HOvGA/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcli82RQpz8H8U0G18WZ6ZK1rS7Q)](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be-Y "SpokeIt") |  
-| [SpokeIt Video 2 - 0:49](https://www.youtube.com/watch?v=PRSEne-KjnQ&feature=youtu.be) | [![SpokeIt](https://i.ytimg.com/vi/PRSEne-KjnQ/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD6n41wJBwYEgAW7qrCMJK18iUn-g)](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be-Y "SpokeIt") |  
-| [SpokeIt Video 3 - 0:49](https://www.youtube.com/watch?v=7Rybkf7eSqo&feature=youtu.be) | [![SpokeIt](https://i.ytimg.com/vi/7Rybkf7eSqo/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCF43vLGh14hJ_it95jz88mhO9Tsg)](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be-Y "SpokeIt") |  
+| [SpokeIt Video 2 - 0:41](https://www.youtube.com/watch?v=PRSEne-KjnQ&feature=youtu.be) | [![SpokeIt](https://i.ytimg.com/vi/PRSEne-KjnQ/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD6n41wJBwYEgAW7qrCMJK18iUn-g)](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be-Y "SpokeIt") |  
+| [SpokeIt Video 3 - 0:52](https://www.youtube.com/watch?v=7Rybkf7eSqo&feature=youtu.be) | [![SpokeIt](https://i.ytimg.com/vi/7Rybkf7eSqo/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCF43vLGh14hJ_it95jz88mhO9Tsg)](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be-Y "SpokeIt") |  
 
 Game Projects
 
