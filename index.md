@@ -1,3 +1,8 @@
+```markdown
+Jeanette Mui
+Email: jeanettemui101@gmail.com
+```
+
 Hello, welcome to my page! 
 
 Game Projects
@@ -28,9 +33,3 @@ Nova, the yellow star who can speak, travels with the fuzzy round charaters, mig
 | [SpokeIt Video 2 - 0:41](https://www.youtube.com/watch?v=PRSEne-KjnQ&feature=youtu.be) | [![SpokeIt](https://i.ytimg.com/vi/PRSEne-KjnQ/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD6n41wJBwYEgAW7qrCMJK18iUn-g)](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be-Y "SpokeIt") |  
 | [SpokeIt Video 3 - 0:52](https://www.youtube.com/watch?v=7Rybkf7eSqo&feature=youtu.be) | [![SpokeIt](https://i.ytimg.com/vi/7Rybkf7eSqo/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCF43vLGh14hJ_it95jz88mhO9Tsg)](https://www.youtube.com/watch?v=qf6Pb_HOvGA&feature=youtu.be-Y "SpokeIt") |  
 
-
-
-```markdown
-Jeanette Mui
-Email: jeanettemui101@gmail.com
-```
