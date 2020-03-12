@@ -6,6 +6,7 @@ Email: jeanettemui101@gmail.com
 Hello, welcome to my page! This page consists of past game projects, videos, and 3D models that I have worked on.
 
 **Game Projects**
+
 Hotaru no Machi is a short 2D side scrolling game where the player is tasked to collect fireflies and fill them up in street lamps to restore light to a dark town. For every street lamp filled, the player can see more of the town around them. This was created with Erica Nguyen and Karen Lee.
 |               |               | 
 | ------------- |:-------------:| 
