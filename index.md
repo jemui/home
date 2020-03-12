@@ -3,12 +3,10 @@ Jeanette Mui
 Email: jeanettemui101@gmail.com
 ```
 
-Hello, welcome to my page! 
+Hello, welcome to my page! This page consists of past game projects, videos, and 3D models that I have worked on.
 
-Game Projects
-
+| Game Projects        |               | 
 Hotaru no Machi is a short 2D side scrolling game where the player is tasked to collect fireflies and fill them up in street lamps to restore light to a dark town. For every street lamp filled, the player can see more of the town around them. This was created with Erica Nguyen and Karen Lee.
-
 |               |               | 
 | ------------- |:-------------:| 
 | [Hotaru no Machi](https://cowsgooom.itch.io/hotaru-no-machi) | [![Hotaru no Machi](https://lh3.googleusercontent.com/SZLdMCc7A6qeZ8gqqoih2BsaNmj-Db6S9O7qzSqsf6mEx9PQg2fwmT3vM50oJffks9zbu0qmATHUSVKEujcbNeqtgOBjmP6hARNLjws2KoiJKtXkhWQqY-bL-Pen6RrSsPM3CzrATJ404ABA9IjxCUY4KiAcbI3SVhKJeaPfDZ_eUdlwvM2klCxiDlkIhXEKtsSrcgObSCBU-fhEosiXfmPdc9wvSE4QauD-hN1zZ--vZoAgeOEO5peex1xKtuSWD_DNYHddt4_HZPod9V-_aV8sVHHO0Lcp2nuTtTJsvsFvANtYSDbBWF_GHr4gvNTVvbiamDs_YjJE7ezFDha6hiylHFseyV_W0n-erkUTgn-gPYssnowXhMCzgUpvuwtsN1IGyXg0xG2NG9xPhKeOLlrGUYIgasHpUtzGjWqJemUb34gOt4n1iy6lKjUjLxLrCo_CDid8EBUTrKwgmJmyf1oH4gIFhm1pa_PQjyqF608VHBS8M1lz_vSuPGSOYAqT0FtpRPjaVp2B0kqvk3l4IAfi1iFMNguRdcj33qP9e_zSxou7QIjDz0BjMLfBIcsaswirDipp9mVO6lJ6FgcLCPswtP_Mdma4a2Rx4tSCFvYMuNTLbexvuPGDUYIk9crFuWAdJyTchfZrxgOEv-A6BEWfbsQqAIU=w1170-h559-no)](https://cowsgooom.itch.io/hotaru-no-machi "Hotaru no Machi") |  
